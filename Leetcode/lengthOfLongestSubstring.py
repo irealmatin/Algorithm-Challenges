@@ -1,3 +1,7 @@
+# Question : https://leetcode.com/problems/longest-substring-without-repeating-characters
+
+
+
 # the first way i was trying to solve it was really awful :)) but its kind of solving for first try ..
 
 #first way 
